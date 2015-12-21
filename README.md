@@ -1,1 +1,3 @@
 # README
+
+- Add feature B
