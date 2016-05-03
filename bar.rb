@@ -1,5 +1,9 @@
 class Bar
   def foo
-    'Zoo'
+    'Foo'
+  end
+
+  def zoo
+    puts 'Zoo'
   end
 end
